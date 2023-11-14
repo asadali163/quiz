@@ -1,0 +1,9 @@
+.align-element {
+  /* give max width of 1200 px and center horizantally. */
+  max-width: 1320px;
+  margin: 0 auto;
+}
+
+.zero-padding {
+  padding: 0px !important;
+}
